@@ -54,7 +54,9 @@
     "Select Vehicle",
     "Vehicle introduction",
     "Symbols",
-    "Core Elements"
+    "Core Elements",
+    "     ↳ 01 Colors",
+    "     ↳ 02 Typography"
   ],
   "sharedSwatches": {
     "_class": "swatchContainer",

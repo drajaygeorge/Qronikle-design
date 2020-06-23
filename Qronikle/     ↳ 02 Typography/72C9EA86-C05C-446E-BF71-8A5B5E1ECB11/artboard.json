@@ -1,0 +1,164 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9803921568627451,
+    "green": 0.9803921568627451,
+    "red": 0.9803921568627451
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "72C9EA86-C05C-446E-BF71-8A5B5E1ECB11",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 2410,
+    "width": 4545,
+    "x": -2273,
+    "y": -1206
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "153BD001-D1CF-4BA4-8D97-EBFB217B7C34"
+    },
+    {
+      "class": "bitmap",
+      "id": "B4A0CE35-FEC6-4A07-9F61-445328AC2D00"
+    },
+    {
+      "class": "rectangle",
+      "id": "BE428100-C2D6-413E-A876-8E4E4651EEDA"
+    },
+    {
+      "class": "bitmap",
+      "id": "A323E523-C615-4A52-BAB3-183CDE03158D"
+    },
+    {
+      "class": "rectangle",
+      "id": "4894B5AD-C9D0-47C9-A9E7-99770BFA10A4"
+    },
+    {
+      "class": "bitmap",
+      "id": "53057DAD-EEE4-411C-9387-AD15DB9797B9"
+    },
+    {
+      "class": "rectangle",
+      "id": "A15F05D5-B26A-4777-BAE6-F5EA2843EF08"
+    },
+    {
+      "class": "bitmap",
+      "id": "86F192E4-E935-4B97-86A4-C1FCE373EFB5"
+    },
+    {
+      "class": "rectangle",
+      "id": "0C04FF6D-020D-41BB-A84B-F317D3CB8637"
+    },
+    {
+      "class": "text",
+      "id": "1CB68F06-D7F5-4E78-AF90-54698141002F"
+    },
+    {
+      "class": "text",
+      "id": "5546AAEF-C383-4FC8-8C61-24513588ACF7"
+    }
+  ],
+  "name": "Typography Setup",
+  "nameIsFixed": true,
+  "presetDictionary": {
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "40D6E6B9-E7D5-484E-A9DF-9D6975AEA22C",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
