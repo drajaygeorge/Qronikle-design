@@ -1,0 +1,63 @@
+{
+  "_class": "document",
+  "agreedToFontEmbedding": false,
+  "assets": {
+    "_class": "assetCollection",
+    "colorAssets": [
+    ],
+    "colors": [
+    ],
+    "do_objectID": "AA15162D-1DDB-47F3-8371-E0E839C2B11B",
+    "exportPresets": [
+    ],
+    "gradientAssets": [
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "autoEmbedFonts": false,
+  "colorSpace": 0,
+  "do_objectID": "AF36984F-0FD5-4D14-B0D1-2B40BEEE4206",
+  "fontReferences": [
+  ],
+  "foreignLayerStyles": [
+  ],
+  "foreignSwatches": [
+  ],
+  "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "66.1",
+    "build": 97080,
+    "version": 130
+  },
+  "pages": [
+    "Logo",
+    "Login",
+    "Sign Up",
+    "Add Vehicle",
+    "Vehicle Mileage",
+    "Select Vehicle",
+    "Vehicle introduction",
+    "Symbols"
+  ],
+  "sharedSwatches": {
+    "_class": "swatchContainer",
+    "objects": [
+    ]
+  }
+}
