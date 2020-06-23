@@ -56,7 +56,8 @@
     "Symbols",
     "Core Elements",
     "     ↳ 01 Colors",
-    "     ↳ 02 Typography"
+    "     ↳ 02 Typography",
+    "     ↳ 03 Icons"
   ],
   "sharedSwatches": {
     "_class": "swatchContainer",
